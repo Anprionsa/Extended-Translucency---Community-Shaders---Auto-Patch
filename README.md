@@ -1,5 +1,7 @@
 # Extended-Translucency---Community-Shaders---Auto-Patch
 
+This is a WIP
+
 Automates tagging meshes with AnisotropicAlphaMaterial for use with shader mods that support anisotropic translucency (e.g., fabrics/glass).
 It runs Blender + PyNifly (https://github.com/BadDogSkyrim/PyNifly) headless, scans your mod folder, and exports only changed NIFs into a mirror tree.
 What it does
